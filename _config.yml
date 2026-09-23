@@ -45,7 +45,7 @@ nav_external_links:
   - title: water-transports/water-rs
     url: https://github.com/water-transports/water-rs
   - title: Discussion + Q&A
-    url: https://github.com/water-transports/water-doc/discussions
+    url: https://github.com/orgs/water-transports/discussions
 
 callouts_level: quiet # or loud
 callouts:
