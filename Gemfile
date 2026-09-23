@@ -32,10 +32,4 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
-# Pinned: newer versions change the generated HTML/CSS/JS.
-gem "just-the-docs", "0.8.0"
-# Pinned: 2.9.0 changes the generated <meta> tags.
-gem "jekyll-seo-tag", "2.8.0"
-# Pinned: Dart Sass >= 1.77.7 reorders nested declarations and >= 1.79 changes
-# color serialization, both of which alter the generated CSS.
-gem "sass-embedded", "1.77.5"
+gem "just-the-docs"
