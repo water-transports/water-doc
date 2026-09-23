@@ -13,7 +13,7 @@ WATER provides runtime libraries in multiple programming languages to support th
 ## Available Runtime Libraries
 
 Currently, we offer the following runtime libraries:
-- Go: [water](https://github.com/refraction-networking/water)
-- Rust: [water-rs](https://github.com/refraction-networking/water-rs)
+- Go: [water](https://github.com/water-transports/water)
+- Rust: [water-rs](https://github.com/water-transports/water-rs)
 
 Please see the documentation for each runtime library for more details.

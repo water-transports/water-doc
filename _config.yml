@@ -35,17 +35,17 @@ exclude:
   - README.md
 
 aux_links:
-  Refraction Networking: "https://refraction.network/"
+  GitHub: "https://github.com/water-transports/"
   FOCI 2024 Paper: "https://www.petsymposium.org/foci/2024/foci-2024-0003.php"
 
 # External navigation links
 nav_external_links:
-  - title: refraction-networking/water
-    url: https://github.com/refraction-networking/water
-  - title: refraction-networking/water-rs
-    url: https://github.com/refraction-networking/water-rs
+  - title: water-transports/water
+    url: https://github.com/water-transports/water
+  - title: water-transports/water-rs
+    url: https://github.com/water-transports/water-rs
   - title: Discussion + Q&A
-    url: https://github.com/refraction-networking/water-doc/discussions
+    url: https://github.com/water-transports/water-doc/discussions
 
 callouts_level: quiet # or loud
 callouts:
